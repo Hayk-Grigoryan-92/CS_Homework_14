@@ -87,12 +87,9 @@ namespace homework14
         {
             for (int i = 0; i < faculty.Length; i++)
             {
-                if (id == faculty[i].id && i < faculty.Length - 2)
+                if (id == faculty[i].id && i < count - 2)
                 {
-                    for (int j = 0; j < faculty.Length; j++)
-                    {
-                        faculty[j] = faculty[j + 1];
-                    }
+                    faculty[i] = faculty[i + 1];
                 }
                 else
                 {
