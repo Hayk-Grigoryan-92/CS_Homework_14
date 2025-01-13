@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\C#\Lesson14\CS_Homework_14\bin\Debug\homework14.exe.config
+C:\Users\ASUS\Desktop\C#\Lesson14\CS_Homework_14\bin\Debug\homework14.exe
+C:\Users\ASUS\Desktop\C#\Lesson14\CS_Homework_14\bin\Debug\homework14.pdb
+C:\Users\ASUS\Desktop\C#\Lesson14\CS_Homework_14\obj\Debug\homework14.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\Lesson14\CS_Homework_14\obj\Debug\homework14.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\Lesson14\CS_Homework_14\obj\Debug\homework14.exe
+C:\Users\ASUS\Desktop\C#\Lesson14\CS_Homework_14\obj\Debug\homework14.pdb
